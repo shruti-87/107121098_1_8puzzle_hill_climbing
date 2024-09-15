@@ -1,0 +1,4 @@
+Random Restart Hill Climbing Initial State: [3, 1, 4, 6, 5, 0, 7, 8, 2]
+Random Restart Hill Climbing Final State: [1, 4, 2, 3, 5, 0, 6, 7, 8]
+First Choice Hill Climbing Initial State: [1, 2, 5, 3, 4, 0, 6, 7, 8]
+First Choice Hill Climbing Final State: [1, 4, 2, 3, 5, 0, 6, 7, 8]
