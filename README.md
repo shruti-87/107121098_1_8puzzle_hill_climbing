@@ -9,12 +9,12 @@ The 8-puzzle is a sliding puzzle that consists of a 3x3 grid of numbered tiles, 
 Example:
 Initial State:
 1  2  5
-3  4  
+3  4  _
 6  7  8
 
 Goal State:
 1  4  2
-3  5  
+3  5  _
 6  7  8
 The goal is to achieve the goal state from any random initial configuration using heuristic-based algorithms.
 
