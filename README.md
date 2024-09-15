@@ -18,7 +18,7 @@ Goal State:
 6  7  8
 The goal is to achieve the goal state from any random initial configuration using heuristic-based algorithms.
 
-##Algorithms
+## Algorithms
 1. Random Restart Hill Climbing:
 Starts from a random configuration.
 Uses hill climbing to move towards a state with a lower heuristic (Manhattan distance).
